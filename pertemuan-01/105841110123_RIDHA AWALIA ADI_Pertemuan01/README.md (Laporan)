@@ -1,0 +1,38 @@
+NAMA : RIDHA AWALIA ADI
+NIM : 105841110123
+KELAS : 5RPL -A
+
+
+# Pertemuan 01 – DevOps Culture & Principles
+
+## Apa itu DevOps?
+
+DevOps adalah pendekatan yang menggabungkan Development (Dev) dan Operations (Ops) untuk meningkatkan kolaborasi, otomatisasi, dan efisiensi dalam pengembangan perangkat lunak.
+
+DevOps bukan hanya tentang tools, tetapi tentang budaya kerja yang berfokus pada continuous improvement dan delivery yang cepat serta stabil.
+
+## Mengapa DevOps Penting?
+
+DevOps penting karena:
+
+- Mempercepat proses pengembangan dan rilis software
+- Mengurangi kesalahan manual melalui otomatisasi
+- Meningkatkan kolaborasi antara tim Dev dan Ops
+- Mendukung penerapan CI/CD
+- Meningkatkan stabilitas dan kualitas aplikasi
+
+## Environment Setup
+
+### Git
+Git berhasil diinstall dan dikonfigurasi dengan:
+- user.name=rawaliaaa
+- user.email=105841110123@student.unismuh.ac.id
+
+### Docker-version
+Docker Desktop berhasil diinstall dan berjalan dengan baik.
+
+### Visual Studio Code
+VS Code telah diinstall dengan extension:
+- Docker
+- GitLens
+- YAML
